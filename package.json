@@ -1,0 +1,19 @@
+{
+  "name": "garmin-export-activities",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "download-tcx": "ts-node src/main.ts",
+    "download-gpx": "ts-node src/main.ts gpx"
+  },
+  "author": {
+    "name": "Samuel De Benedictis",
+    "email": "samuel.debenedictis@yahoo.it"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "garmin-connect": "^1.6.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
