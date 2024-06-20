@@ -1,4 +1,4 @@
-# Garmin Activity Downloader
+# Garmin Activities Downloader
 
 This project allows you to download your Garmin activities in .gpx or .tcx format.
 
